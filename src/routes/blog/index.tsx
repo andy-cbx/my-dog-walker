@@ -1,0 +1,1 @@
+import BlogRoute from './blog-route';export default BlogRoute;

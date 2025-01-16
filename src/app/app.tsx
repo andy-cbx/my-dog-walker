@@ -1,1 +1,0 @@
-import { HomeRoute } from '@/routes/home/home-route';const App = () => {    return <HomeRoute />;};export default App;

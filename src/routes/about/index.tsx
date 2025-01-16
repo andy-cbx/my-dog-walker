@@ -1,0 +1,1 @@
+import AboutRoute from './about-route';export default AboutRoute;

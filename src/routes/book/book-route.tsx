@@ -1,0 +1,1 @@
+const BookRoute = () => {    return <section></section>;};export default BookRoute;

@@ -1,0 +1,1 @@
+import BookRoute from './book-route';export default BookRoute;

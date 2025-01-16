@@ -1,0 +1,1 @@
+const SittingRoute = () => {    return <section></section>;};export default SittingRoute;

@@ -1,0 +1,1 @@
+const AboutRoute = () => {    return <section></section>;};export default AboutRoute;

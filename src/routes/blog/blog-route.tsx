@@ -1,0 +1,1 @@
+const BlogRoute = () => {    return <section></section>;};export default BlogRoute;

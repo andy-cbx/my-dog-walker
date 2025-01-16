@@ -1,0 +1,1 @@
+import SittingRoute from './sitting-route';export default SittingRoute;

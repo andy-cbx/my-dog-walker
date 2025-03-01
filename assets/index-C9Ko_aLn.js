@@ -1,1 +1,0 @@
-import{j as e}from"./index-0bLf1dLA.js";const t=""+new URL("oops-D7AxeZcH.svg",import.meta.url).href,o=()=>e.jsx("section",{className:"flex flex-col items-center justify-center bg-primary-blue pt-32",children:e.jsx("img",{src:t,alt:""})});export{o as default};

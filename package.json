@@ -1,5 +1,5 @@
 {
-  "homepage": "https://andy-cbx.github.io/my-dog-walker/",
+  "homepage": "https://mydogwalker.au/",
   "name": "my-dog-walker",
   "private": true,
   "version": "0.0.0",
@@ -7,7 +7,7 @@
   "description": "none yet",
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist",
+    "deploy": "gh-pages -d dist --cname mydogwalker.au",
     "dev": "vite",
     "build": "tsc -b && vite build",
     "lint": "eslint .",

@@ -103,7 +103,7 @@ export default [{
                     "./src/utils",
                 ],
 
-                from: ["./src/features", "./src/app"],
+                // from: ["./src/features", "./src/app"],
             }],
         }],
 

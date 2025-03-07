@@ -8,8 +8,6 @@
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist --cname mydogwalker.au",
-    "preview:worker": "npm run build && wrangler dev",
-    "deploy:worker": "npm run build && wrangler deploy",
     "dev": "vite",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
